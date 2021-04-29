@@ -1,0 +1,10 @@
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+endereco = input("Digite seu endereço: ")
+telefone = input("Digite seu telefone: ")
+
+print("Olá", nome, "!")
+print("Como vai?")
+print("Você tem", idade, "anos de idade.")
+print("Seu endereço está situado na:", endereco, ".")
+print("Seu telefone é:", telefone)
